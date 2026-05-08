@@ -12,7 +12,7 @@ my_theme <- bs_theme(
   version = 5,
   preset = "cyborg",       # A clean, modern font/color preset
   primary = "#1A237E",    # IPL Dark Blue
-  danger = "red",
+  danger = "purple",
   "navbar-bg" = "#1A237E" ,# Make the top navbar blue
   "card-bg" = "#000000"  # Make the card background  black   
 )
